@@ -1,0 +1,26 @@
+// {
+//     "development": {
+//         "username": "root",
+//         "password": "ATSPL@Aco007!",
+//         "database": "db_lion",
+//         "host": "localhost",
+//         "dialect": "mysql",
+//         "logging": true
+//     },
+//     "test": {
+//         "username": "root",
+//         "password": "ATSPL@Aco007!",
+//         "database": "db_lion",
+//         "host": "localhost",
+//         "dialect": "mysql",
+//         "logging": false
+//     },
+//     "production": {
+//         "username": "root",
+//         "password": "ATSPL@Aco007!",
+//         "database": "db_lion",
+//         "host": "localhost",
+//         "dialect": "mysql",
+//         "logging": false
+//     }
+// }

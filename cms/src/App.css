@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container1 {
+    width: 50rem;
+    height: 80vh;
+    position: relative;
+    overflow: hidden;
+    background: rgba(217, 217, 217, 0.25);
+    backdrop-filter: blur(2px);
+    /* box-shadow: 0 10px 40px -7px rgba(255, 255, 255, 0.75); */
+}
+
+@layer utilities {
+    .active li {
+        background-color: rgba(194, 194, 194, 0.702);
+    }
+}
